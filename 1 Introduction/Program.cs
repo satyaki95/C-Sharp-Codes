@@ -17,11 +17,13 @@ class Test{
         System.Console.WriteLine(age);
         System.Console.WriteLine(profetion);
 
-        //   \n = new line
-        //   \t = new tab
-        //   \""= print ""
-        //   \\ = print back-slash
-
+        /*
+           \n = new line
+           \t = new tab
+           \""= print ""
+           \\ = print back-slash
+        */
+        
         System.Console.WriteLine("\"My Name Is Satyaki Saha.\n I Am 30 Years Old.\n I Am A Full-Stack Developer.\"");
     }
 }
