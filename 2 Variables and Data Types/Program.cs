@@ -31,5 +31,20 @@ class Program
         Console.WriteLine(category);
         Console.WriteLine(Available);
         Console.WriteLine(sold);
+
+
+        // Constant variable
+
+        const string fullName = "Satyaki Saha";
+        Console.WriteLine(fullName);
+        
+
+        // Multiple Variable
+
+        int num1, num2, num3;
+
+        num1 = num2 = num3 = 10;
+
+        Console.WriteLine(num1 + " " + num2 + " " + num3);
     }
 }
