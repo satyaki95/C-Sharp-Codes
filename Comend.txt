@@ -1,1 +1,4 @@
+vs code only
+
 dotnet new console   [new console]
+dotnet run [Compile the code]
