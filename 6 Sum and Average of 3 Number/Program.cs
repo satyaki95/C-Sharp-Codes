@@ -13,6 +13,6 @@
         number3 = Convert.ToInt32(Console.ReadLine());
 
         sum = (number1+number2+number3)/3.0;
-        Console.WriteLine($"avg = {sum1}");
+        Console.WriteLine($"avg = {sum1.ToString("F2")}");
     }
 }
