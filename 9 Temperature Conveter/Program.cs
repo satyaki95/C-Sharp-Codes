@@ -16,7 +16,7 @@
         // Fahrenheit To Celsius
         far = (celI * 1.8) + 32;
 
-        Console.WriteLine($"C = {cel.ToString("F2")}");
-        Console.WriteLine($"F = {far.ToString("F2")}");
+        Console.WriteLine($"Celsius = {cel.ToString("F2")}");
+        Console.WriteLine($"Fahrenheit = {far.ToString("F2")}");
     }
 }
