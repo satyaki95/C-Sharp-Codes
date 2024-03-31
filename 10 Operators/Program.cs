@@ -23,5 +23,12 @@
         Console.WriteLine($"{number1 <= number2}");
         Console.WriteLine($"{number1 == number2}");
         Console.WriteLine($"{number1 != number2}");
+
+        // Logical Operator
+
+        Console.WriteLine(8 > 9 && 8 < 9 && 13 > 9);
+        Console.WriteLine(8 > 9 || 8 < 9 || 13 > 9);
+        Console.WriteLine(!(8 > 9 && 8 < 9 && 13 > 9));
+
     }
 }
