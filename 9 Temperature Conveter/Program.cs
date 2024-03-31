@@ -2,7 +2,7 @@
 {
     public static void Main(){
 
-        Console.WriteLine("F to C Conveter");
+        Console.WriteLine("F to C & C to F Conveter ");
 
         double farI,celI,far,cel;
 
